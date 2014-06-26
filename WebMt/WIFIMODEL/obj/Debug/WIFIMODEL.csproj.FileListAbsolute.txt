@@ -1,0 +1,15 @@
+D:\桌面\黄涛项目\WebMt\WIFIMODEL\bin\Debug\WIFIMODEL.dll
+D:\桌面\黄涛项目\WebMt\WIFIMODEL\bin\Debug\WIFIMODEL.pdb
+D:\桌面\黄涛项目\WebMt\WIFIMODEL\obj\Debug\ResolveAssemblyReference.cache
+D:\桌面\黄涛项目\WebMt\WIFIMODEL\obj\Debug\WIFIMODEL.dll
+D:\桌面\黄涛项目\WebMt\WIFIMODEL\obj\Debug\WIFIMODEL.pdb
+D:\桌面\2014code\黄涛项目\WebMt\WIFIMODEL\bin\Debug\WIFIMODEL.dll
+D:\桌面\2014code\黄涛项目\WebMt\WIFIMODEL\bin\Debug\WIFIMODEL.pdb
+D:\桌面\2014code\黄涛项目\WebMt\WIFIMODEL\obj\Debug\ResolveAssemblyReference.cache
+D:\桌面\2014code\黄涛项目\WebMt\WIFIMODEL\obj\Debug\WIFIMODEL.dll
+D:\桌面\2014code\黄涛项目\WebMt\WIFIMODEL\obj\Debug\WIFIMODEL.pdb
+F:\Visual Studio 2010\WebMt\WIFIMODEL\bin\Debug\WIFIMODEL.dll
+F:\Visual Studio 2010\WebMt\WIFIMODEL\bin\Debug\WIFIMODEL.pdb
+F:\Visual Studio 2010\WebMt\WIFIMODEL\obj\Debug\ResolveAssemblyReference.cache
+F:\Visual Studio 2010\WebMt\WIFIMODEL\obj\Debug\WIFIMODEL.dll
+F:\Visual Studio 2010\WebMt\WIFIMODEL\obj\Debug\WIFIMODEL.pdb

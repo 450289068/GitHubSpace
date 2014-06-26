@@ -1,0 +1,14 @@
+D:\桌面\淘宝客需求项目\WebMt\WebMt\bin\WebMt.dll
+D:\桌面\淘宝客需求项目\WebMt\WebMt\bin\WebMt.pdb
+D:\桌面\淘宝客需求项目\WebMt\WebMt\obj\Debug\ResolveAssemblyReference.cache
+D:\桌面\淘宝客需求项目\WebMt\WebMt\obj\Debug\WebMt.dll
+D:\桌面\淘宝客需求项目\WebMt\WebMt\obj\Debug\WebMt.pdb
+D:\桌面\黄涛项目\WebMt\WebMt\bin\WebMt.dll
+D:\桌面\黄涛项目\WebMt\WebMt\bin\WebMt.pdb
+D:\桌面\黄涛项目\WebMt\WebMt\obj\Debug\ResolveAssemblyReference.cache
+D:\桌面\黄涛项目\WebMt\WebMt\obj\Debug\WebMt.dll
+D:\桌面\黄涛项目\WebMt\WebMt\obj\Debug\WebMt.pdb
+D:\桌面\黄涛项目\WebMt\WebMt\bin\CommonLib.dll
+D:\桌面\黄涛项目\WebMt\WebMt\bin\CommonLib.pdb
+D:\桌面\黄涛项目\WebMt\WebMt\bin\log4net.xml
+D:\桌面\黄涛项目\WebMt\WebMt\bin\log4net.dll

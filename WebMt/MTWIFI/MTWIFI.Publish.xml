@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="D:\我的文档\Downloads\MTWIFI" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="配置文件1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="js/jquery/swipe.js" publishTime="04/20/2014 19:48:16" />
+    <file relUrl="js/hhSwipe.js" publishTime="04/20/2014 19:47:08" />
+    <file relUrl="images/5.jpg" publishTime="04/20/2014 19:47:12" />
+    <file relUrl="js/jquery/jquery.mobile.theme-1.2.1.min.css" publishTime="04/20/2014 19:48:16" />
+    <file relUrl="Global.asax" publishTime="04/20/2014 15:18:58" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="04/20/2014 09:05:34" />
+    <file relUrl="js/jquery/jquery.mobile.structure-1.2.1.min.css" publishTime="04/20/2014 19:48:16" />
+    <file relUrl="js/jquery/jquery.mobile-1.2.1.js" publishTime="04/20/2014 19:48:16" />
+    <file relUrl="bin/log4net.dll" publishTime="04/20/2014 14:50:21" />
+    <file relUrl="verify.aspx" publishTime="04/20/2014 20:49:09" />
+    <file relUrl="log4net.config" publishTime="04/20/2014 19:18:49" />
+    <file relUrl="js/jquery/images/icons-18-black.png" publishTime="04/20/2014 19:48:16" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="04/20/2014 09:05:34" />
+    <file relUrl="images/7.jpg" publishTime="04/20/2014 19:47:12" />
+    <file relUrl="images/2.jpg" publishTime="04/20/2014 19:47:12" />
+    <file relUrl="images/9.jpg" publishTime="04/20/2014 19:47:12" />
+    <file relUrl="bin/log4net.config" publishTime="04/20/2014 19:18:49" />
+    <file relUrl="js/jquery/jquery.mobile-1.2.1.css" publishTime="04/20/2014 19:48:16" />
+    <file relUrl="index.html" publishTime="04/20/2014 22:54:09" />
+    <file relUrl="bin/MTWIFI.dll" publishTime="06/25/2014 23:16:51" />
+    <file relUrl="js/jquery/images/icons-36-white.png" publishTime="04/20/2014 19:48:16" />
+    <file relUrl="bin/CommonLib.pdb" publishTime="06/25/2014 22:28:04" />
+    <file relUrl="js/jquery/jquery.mobile.structure-1.2.1.css" publishTime="04/20/2014 19:48:16" />
+    <file relUrl="js/jquery/jquery.mobile.theme-1.2.1.css" publishTime="04/20/2014 19:48:16" />
+    <file relUrl="js/jquery/jquery.js" publishTime="04/20/2014 19:48:16" />
+    <file relUrl="js/jquery/jquery.event.swipe.js" publishTime="04/20/2014 19:48:16" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="04/20/2014 09:05:34" />
+    <file relUrl="js/jquery/jquery.mobile-1.2.1.min.js" publishTime="04/20/2014 19:48:16" />
+    <file relUrl="js/jquery/unslider.min.js" publishTime="04/20/2014 19:48:16" />
+    <file relUrl="js/jquery/jquery.event.move.js" publishTime="04/20/2014 19:48:16" />
+    <file relUrl="js/jquery/images/icons-18-white.png" publishTime="04/20/2014 19:48:16" />
+    <file relUrl="Default.aspx" publishTime="04/20/2014 22:26:58" />
+    <file relUrl="js/jquery/swipe.min.js" publishTime="04/20/2014 19:48:16" />
+    <file relUrl="hb.aspx" publishTime="04/20/2014 22:36:57" />
+    <file relUrl="images/3.jpg" publishTime="04/20/2014 19:47:12" />
+    <file relUrl="js/jquery/jquery.min.js" publishTime="04/20/2014 19:48:16" />
+    <file relUrl="bin/MTWIFI.pdb" publishTime="06/25/2014 23:16:51" />
+    <file relUrl="images/4.jpg" publishTime="04/20/2014 19:47:12" />
+    <file relUrl="js/jquery/jquery.mobile-1.2.1.min.css" publishTime="04/20/2014 19:48:16" />
+    <file relUrl="js/jquery.min.js" publishTime="04/20/2014 19:47:08" />
+    <file relUrl="js/jquery/images/icons-36-black.png" publishTime="04/20/2014 19:48:16" />
+    <file relUrl="bin/WIFIMODEL.pdb" publishTime="06/25/2014 22:24:16" />
+    <file relUrl="Web.config" publishTime="04/20/2014 23:00:26" />
+    <file relUrl="js/jquery/unslider.js" publishTime="04/20/2014 19:48:16" />
+    <file relUrl="js/jquery/images/ajax-loader.gif" publishTime="04/20/2014 19:48:16" />
+    <file relUrl="css/layout.css" publishTime="04/20/2014 19:47:16" />
+    <file relUrl="images/10.jpg" publishTime="04/20/2014 19:47:12" />
+    <file relUrl="images/6.jpg" publishTime="04/20/2014 19:47:12" />
+    <file relUrl="bin/WIFIMODEL.dll" publishTime="06/25/2014 22:24:16" />
+    <file relUrl="images/1.jpg" publishTime="04/20/2014 19:47:12" />
+    <file relUrl="images/ui-slider-arrow.png" publishTime="04/20/2014 19:47:12" />
+    <file relUrl="images/8.jpg" publishTime="04/20/2014 19:47:12" />
+    <file relUrl="bin/CommonLib.dll" publishTime="06/25/2014 22:28:04" />
+    <file relUrl="images/ui-slider-imgbg.png" publishTime="04/20/2014 19:47:12" />
+  </publishProfile>
+</publishData>

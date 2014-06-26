@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTWIFI", "MTWIFI\MTWIFI.csproj", "{78497B33-9129-4D49-8AF5-5356840FF2C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WIFIMODEL", "WIFIMODEL\WIFIMODEL.csproj", "{ABD74870-9190-43F0-B3AC-86CA74248680}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonLib", "CommonLib\CommonLib.csproj", "{94770017-1806-41C2-BEB5-C7EC5F715CD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78497B33-9129-4D49-8AF5-5356840FF2C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78497B33-9129-4D49-8AF5-5356840FF2C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78497B33-9129-4D49-8AF5-5356840FF2C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78497B33-9129-4D49-8AF5-5356840FF2C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABD74870-9190-43F0-B3AC-86CA74248680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD74870-9190-43F0-B3AC-86CA74248680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD74870-9190-43F0-B3AC-86CA74248680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD74870-9190-43F0-B3AC-86CA74248680}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94770017-1806-41C2-BEB5-C7EC5F715CD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94770017-1806-41C2-BEB5-C7EC5F715CD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94770017-1806-41C2-BEB5-C7EC5F715CD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94770017-1806-41C2-BEB5-C7EC5F715CD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

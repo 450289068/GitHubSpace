@@ -1,0 +1,82 @@
+ --------------------------网站运行过程中产生的错误-------------------------- 
+2014-04-20 19:13:07,859 [5532] DEBUG CommonLib.LogHelper [(null)] - debug
+
+
+2014-04-20 19:13:07,968 [5532] INFO  CommonLib.LogHelper [(null)] - info
+
+
+2014-04-20 19:13:07,968 [5532] ERROR CommonLib.LogHelper [(null)] - error
+
+
+2014-04-20 19:13:08,921 [4640] DEBUG CommonLib.LogHelper [(null)] - debug
+
+
+2014-04-20 19:13:08,921 [4640] INFO  CommonLib.LogHelper [(null)] - info
+
+
+2014-04-20 19:13:08,921 [4640] ERROR CommonLib.LogHelper [(null)] - error
+
+
+2014-04-20 19:13:10,140 [2448] DEBUG CommonLib.LogHelper [(null)] - debug
+
+
+2014-04-20 19:13:10,140 [2448] INFO  CommonLib.LogHelper [(null)] - info
+
+
+2014-04-20 19:13:10,140 [2448] ERROR CommonLib.LogHelper [(null)] - error
+
+
+2014-04-20 19:14:24,656 [4640] DEBUG CommonLib.LogHelper [(null)] - debug
+
+
+2014-04-20 19:14:24,656 [4640] INFO  CommonLib.LogHelper [(null)] - info
+
+
+2014-04-20 19:14:24,656 [4640] ERROR CommonLib.LogHelper [(null)] - error
+
+
+2014-04-20 19:14:25,500 [2448] DEBUG CommonLib.LogHelper [(null)] - debug
+
+
+2014-04-20 19:14:25,500 [2448] INFO  CommonLib.LogHelper [(null)] - info
+
+
+2014-04-20 19:14:25,500 [2448] ERROR CommonLib.LogHelper [(null)] - error
+
+
+2014-04-20 19:14:50,265 [4640] DEBUG CommonLib.LogHelper [(null)] - debug
+
+
+2014-04-20 19:14:50,265 [4640] INFO  CommonLib.LogHelper [(null)] - info
+
+
+2014-04-20 19:14:50,265 [4640] ERROR CommonLib.LogHelper [(null)] - error
+
+
+2014-04-20 19:14:51,078 [2448] DEBUG CommonLib.LogHelper [(null)] - debug
+
+
+2014-04-20 19:14:51,078 [2448] INFO  CommonLib.LogHelper [(null)] - info
+
+
+2014-04-20 19:14:51,078 [2448] ERROR CommonLib.LogHelper [(null)] - error
+
+
+2014-04-20 19:15:08,453 [2448] DEBUG CommonLib.LogHelper [(null)] - debug
+
+
+2014-04-20 19:15:08,453 [2448] INFO  CommonLib.LogHelper [(null)] - info
+
+
+2014-04-20 19:15:08,453 [2448] ERROR CommonLib.LogHelper [(null)] - error
+
+
+2014-04-20 19:15:09,796 [4640] DEBUG CommonLib.LogHelper [(null)] - debug
+
+
+2014-04-20 19:15:09,796 [4640] INFO  CommonLib.LogHelper [(null)] - info
+
+
+2014-04-20 19:15:09,796 [4640] ERROR CommonLib.LogHelper [(null)] - error
+
+ -------------------------------------测试：GZQ------------------------------------- 
