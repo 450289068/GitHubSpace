@@ -67,7 +67,15 @@ namespace WIFIMODEL
         //    get { return _linetime; }
         //    set { _linetime = value; }
         //}
+			
+			//just to add one common to test whether add some word to git by this app
 
+			private string _hello;
+			public string Hello
+			{
+				get { return _hello;}
+				set { _hello = value;}
+			}
 
     }
 }
